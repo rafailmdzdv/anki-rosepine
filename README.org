@@ -1,0 +1,12 @@
+#+TITLE: Rose Pine Anki theme
+
+** Install
+- Download Anki [[https://ankiweb.net/shared/info/688199788][plugin]]
+- Copy preferred theme json file
+  #+BEGIN_SRC shell
+  $ cp <theme>.json /home/<user>/.local/share/Anki12/addons21/<addon_id>/themes
+  #+END_SRC
+- Go to Anki app, then:
+  - Ctrl+Shift+A (Tools -> Add-ons)
+  - "Configuration" in ReColor plugin
+  - Themes -> Apply theme -> Save
