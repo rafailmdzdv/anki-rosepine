@@ -1,4 +1,4 @@
-# Rose Pine Anki theme
+# Rosé Pine Anki theme
 
 ## Install
 - Download Anki plugin: [ReColor](https://ankiweb.net/shared/info/688199788)
@@ -12,11 +12,11 @@
   - Themes -> Apply theme -> Save
 
 ## Theme Preview:
-### Rosepine
+### Rosé Pine
 <img width="812" height="496" alt="image" src="https://github.com/user-attachments/assets/7fd5ecca-9be9-4190-90a5-b029f67619af" />
 
-### Rosepine Moon
+### Rosé Pine Moon
 <img width="812" height="496" alt="image" src="https://github.com/user-attachments/assets/7bc6dc17-2c66-45f9-8716-41ce862ebc0c" />
 
-### Rosepine Dawn
+### Rosé Pine Dawn
 <img width="812" height="496" alt="image" src="https://github.com/user-attachments/assets/0a6c5f90-5ecb-4454-b613-1f5dfd6d42f1" />
